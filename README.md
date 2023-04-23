@@ -25,10 +25,3 @@ service：服务模块
 - 添加好友
 - 查看历史记录
 
-- cache : 放置redis配置
-- conf : 放置配置文件 
-- model : 数据库模型
-- pkg : 防止一些错误码
-- router ： 路由模块
--
-   
