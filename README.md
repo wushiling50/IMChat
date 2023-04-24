@@ -2,6 +2,7 @@
 
 >
 >即时通讯项目，支持好友、单聊、群聊
+>api文档：https://www.apifox.cn/apidoc/shared-b851ba04-a8e5-481c-acda-858e9070396c
 
 # 项目构成
 
